@@ -15,10 +15,14 @@
 
 a{
     color: white;
+    
+    
    
 }
 li{
     padding-left: 30px;
+    
+    
 }
   /* a::after
   a::before{
@@ -27,14 +31,21 @@ li{
   
   li{
       display: inline-block;
+      
+      
   }
   
   a:hover {
     
-    text-decoration: underline ;
+    text-decoration: underline ; 
     color: white;
     text-decoration-color: red; 
-    text-decoration-thickness: 2px;
+   
+    
+    /* border-bottom: 2px solid rgb(231, 20, 20);
+     */
+    
+    
   }
   
   a:active {
@@ -46,6 +57,7 @@ li{
       margin-top: 102px;
       height: 400px;
   }
+  
   #navbarNav{
       margin-top: 34px;
       margin-left: 20px;
@@ -92,14 +104,66 @@ li{
 }
 #box1{
     background-color: #fb414e;
+    width: 268px;
+    height: 268px;
     
 }
 #box2{
     background-color:#202B30;
     color: white;
+    margin-left: 25px;
+    width: 268px;
+    height: 268px;
     
 }
+.concept{
+    margin-top: 10px;
+}
+#box2 img{
+    height: 50px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#box1 img{
+    height: 50px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.design{
+    margin-top: 40px;
+    margin-left: 20px;
+   
 
+}
+hr.new4{
+    background-color: white;
+    width: 20%;
+   
+   margin-left: 20px;
+}
+  
+.lorem{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#box2 img{
+    height: 50px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.service{
+    text-align: center;
+}
+#servicetotal{
+    margin-top:64px;
+}
+.service{
+    margin-top: 50px;
+   
+}
 
 
   
